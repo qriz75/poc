@@ -90,6 +90,19 @@ body {
     width: 800px;
     height: 50px;
 }
+.container{
+  background-color: lightblue;
+}
+.top-row{
+  background-color: lightgreen;
+}
+.center{
+  background-color: lightsalmon;
+}
+.bottom{
+  background-color: lightcoral;
+}
+
 /* .red{background-color: red}
 .blue{background-color: blue}
 .green{background-color: green}

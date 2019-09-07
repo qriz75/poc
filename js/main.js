@@ -1,6 +1,6 @@
 anime({
     targets: 'div.box',
-    translateY: 35, 
+    translateY: 55, 
     loop: true,
     direction: 'alternate',
     rotate: '2turn',
